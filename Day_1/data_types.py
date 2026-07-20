@@ -1,0 +1,6 @@
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type(["Amd", "Suep", "Indonesia"]))
+print(type("Amd"))
